@@ -1,0 +1,48 @@
+* [33mcommit cca4609a1d12299c9c9367d620d4529c040a002b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature[m[33m)[m
+[31m|[m Author: Govardh Nath <govardhnaths@gmail.com>
+[31m|[m Date:   Sat Mar 16 22:53:36 2024 +0530
+[31m|[m 
+[31m|[m     added some text2
+[31m|[m   
+[31m|[m * [33mcommit f2b700257dfe44331d214655b2ce49b4455a82c5[m[33m ([m[1;32mmaster[m[33m)[m
+[31m|[m[31m/[m  Author: Govardh Nath <govardhnaths@gmail.com>
+[31m|[m   Date:   Sat Mar 16 22:50:03 2024 +0530
+[31m|[m   
+[31m|[m       added some text2
+[31m|[m   
+[31m|[m * [33mcommit a4a85a7e560233d9d5543dc057a1014a4bb5ad2e[m[33m ([m[1;35mrefs/stash[m[33m)[m
+[31m|[m[31m/[m[34m|[m Merge: 81facb1 8d0c90b
+[31m|[m [34m|[m Author: Govardh Nath <govardhnaths@gmail.com>
+[31m|[m [34m|[m Date:   Sat Mar 16 22:46:34 2024 +0530
+[31m|[m [34m|[m 
+[31m|[m [34m|[m     WIP on master: 81facb1 added some text
+[31m|[m [34m|[m 
+[31m|[m * [33mcommit 8d0c90b93f5192521b7cfdcdd6bb8e5a73251107[m
+[31m|[m[31m/[m  Author: Govardh Nath <govardhnaths@gmail.com>
+[31m|[m   Date:   Sat Mar 16 22:46:34 2024 +0530
+[31m|[m   
+[31m|[m       index on master: 81facb1 added some text
+[31m|[m 
+* [33mcommit 81facb10be9c9d096f58270a0d8081885ffacce2[m
+[34m|[m Author: Govardh Nath <govardhnaths@gmail.com>
+[34m|[m Date:   Sat Mar 16 22:29:08 2024 +0530
+[34m|[m 
+[34m|[m     added some text
+[34m|[m 
+* [33mcommit 4afbfdc668aae89c9aee037b66eb175fbaeee32c[m
+[34m|[m Author: Govardh Nath <govardhnaths@gmail.com>
+[34m|[m Date:   Sat Mar 16 22:23:19 2024 +0530
+[34m|[m 
+[34m|[m     added second file
+[34m|[m 
+* [33mcommit b5bbd435008fbc22ffb3dd98cde893aaa74fffda[m
+[34m|[m Author: Govardh Nath <govardhnaths@gmail.com>
+[34m|[m Date:   Sat Mar 16 21:10:03 2024 +0530
+[34m|[m 
+[34m|[m     added some messages
+[34m|[m 
+* [33mcommit 6e851de54a511fd7f115aae9a1ee235cb7d1c007[m
+  Author: Govardh Nath <govardhnaths@gmail.com>
+  Date:   Sat Mar 16 21:03:09 2024 +0530
+  
+      Initial stage
